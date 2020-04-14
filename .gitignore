@@ -1,0 +1,15 @@
+DATOS/
+RESULTADOS/
+*.shx
+*.shp
+*.dbf
+*.cpg
+*.prj
+Mapas/license.txt
+Mapas/Mapa_Colombia.pdf
+
+Presentacion_Consumo.pptx
+Reporte_Poblacion_DANE.xlsx
+REGISTROS_SANITARIOS.xlsx
+Consulta_Cubo_SISMED.xlsx
+environment_2019.RData
