@@ -13,3 +13,10 @@ Reporte_Poblacion_DANE.xlsx
 REGISTROS_SANITARIOS.xlsx
 Consulta_Cubo_SISMED.xlsx
 environment_2019.RData
+*.odc
+Mapas/data_population.csv
+Mapas/mapos_cos.pdf
+.Rhistory
+.RData
+MDX.txt
+verificacion.csv
