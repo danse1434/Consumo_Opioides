@@ -15,6 +15,12 @@
 # Cargar Paquetes
 require(leaflet)
 require(DT)
+require(tidyverse)
+require(sf)
+require(rlang)
+require(leaflet)
+require(tmap)
+
 # Definir la interfaz de usuario para la aplicación que grafica
 
 #-------------------------------------------------------------------------------#
@@ -101,11 +107,7 @@ ui <- fluidPage(
 #-------------------------------------------------------------------------------#
 # Definir la lógica del servidor requerida para hacer gráficos
 server <- function(input, output) {
-  # Carga de paquetes
-  require(tidyverse)
-  require(sf)
-  require(rlang)
-  require(leaflet)
+  
   
   setwd(file.path('F:', 'Documentos', 'Estudio - Documentos', 'Trabajos', 'UAS-FNE', 
                   'Consumo_Opioides', 'Mapas'))
