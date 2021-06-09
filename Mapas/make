@@ -1,0 +1,9 @@
+build:
+	build
+	docker run --rm -p 3838:3838 \
+	danse1434/shinyapp-dockerfile;
+
+	sleep 2;
+	chrome 127.0.0.1:3838;
+
+sudo docker run -d -p 8787:8787 -p 3838:3838 --name R_Container -e USER=DANIEL -e ROOT=TRUE -e PASSWORD=PARRA -v "$PWD":/home/rstudio rocker/geospatial:latest

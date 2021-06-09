@@ -108,8 +108,7 @@ ui <- fluidPage(
 # Definir la lógica del servidor requerida para hacer gráficos
 server <- function(input, output) {
   
-  
-  setwd(file.path('F:', 'Documentos', 'Estudio - Documentos', 'Trabajos', 'UAS-FNE', 
+  setwd(file.path('F:', 'Documentos', 'Estudio_Documentos', 'Trabajos', 'UAS-FNE', 
                   'Consumo_Opioides', 'Mapas'))
   
   #-------------------------------------------------------------------------------#

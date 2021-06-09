@@ -1,0 +1,45 @@
+
+.tituloApp{
+  color: white;
+  width: 100%;
+  padding: 1rem 2rem;
+  background-color: white;
+  vertical-align: center;
+  /*background-color: rgb(220, 234, 251);*/
+  /*border-radius: 10px; #3366CC*/
+}
+
+.titulo1 {
+  color: black;
+  font-weight: bold;
+}
+
+.subtitulo1 {
+  color: black;
+  font-weight: bold;
+}
+
+.logoMinSalud{
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+.helper{
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.well{
+  background-color: rgb(220, 234, 251, 0.4);
+}
+
+#selectMed-sDDD_pais{
+  display:inline
+  
+}
+
+#selectMed-Departamento_Var{
+  display:inline
+}
+

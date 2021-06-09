@@ -1,0 +1,22 @@
+medicamento1,ID,medicamento2,codigo
+"fenobarbital 0,4% solución oral",1,Fenobarbital 0.4% Sol. Oral,FEN01
+fenobarbital 10 mg tabletas,2,Fenobarbital Tableta 10 mg,FEN02
+fenobarbital 50 mg tabletas,4,Fenobarbital Tableta 50 mg,FEN03
+fenobarbital 100 mg tabletas,3,Fenobarbital Tableta 100 mg,FEN04
+fenobarbital sódico 40 mg/ml solución inyectable,6,Fenobarbital sódico 40 mg/mL,FEN10
+fenobarbital sódico 200 mg/ml solución inyectable,5,Fenobarbital sódico 200 mg/mL,FEN11
+hidromorfona hcl 2.5 mg tabletas,8,Hidromorfona HCl 2.5 mg,HID01
+hidromorfona hcl 5 mg tabletas,9,Hidromorfona HCl 5 mg,HID02
+hidromorfona hcl 2 mg/ml solución inyectable,7,Hidromorfona HCl 2 mg/mL,HID10
+meperidina hcl 100 mg/2 ml solución inyectable,10,Meperidina HCl 100 mg/2 mL,MEP01
+morfina hcl 3% oral,NA,Morfina HCl 3% oral,MOR01
+morfina hcl 3% vial,NA,Morfina HCl 3% vial,MOR02
+morfina hcl 10 mg/ml solución inyectable,18,Morfina HCl 10 mg/mL,MOR11
+metadona hcl 10 mg tabletas,11,Metadona HCl Tab 10 mg,MET01
+metadona hcl 40 mg tabletas,12,Metadona HCl Tab 40 mg,MET02
+metilfenidato hcl x 10 mg comprimidos,17,Metilfenidato HCl Tab 10 mg,MFT01
+metilfenidato hcl 18 mg tabletas de liberación prolongada,13,Metilfenidato HCl Tab 18 mg,MFT02
+metilfenidato hcl 20 mg cápsulas de liberación prolongada,14,Metilfenidato HCl Tab 20 mg,MFT03
+metilfenidato hcl 30 mg cápsulas de liberación prolongada,15,Metilfenidato HCl Tab 30 mg,MFT04
+metilfenidato hcl 36 mg tabletas de liberación prolongada,16,Metilfenidato HCl Tab 36 mg,MFT05
+primidona 250 mg tabletas,19,Primidona Tab 250 mg,PRI01
